@@ -7,4 +7,4 @@
 知网下载方式举例：
 1. 点击[知网](http://kns.cnki.net/kns/brief/default_result.aspx)链接，输入想了解的方向，选择硕博论文，在列表里选择一篇看看内容是否感兴趣，再下载。
 
-![image][./img/img1.png]
+![image](./img/img1.png)
